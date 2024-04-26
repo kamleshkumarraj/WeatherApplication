@@ -1,5 +1,6 @@
-node_modules
-package-lock.json
-dist
 .parcel-cache
+dist
+node_modules
+.postcssrc
+package-lock.json
 package.json
